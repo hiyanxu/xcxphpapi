@@ -15,9 +15,9 @@ class XcxApi {
      * @var unknown
      */
     public $config=[  //默认为教练端配置
-        'appid' => 'wx49fb1c5f4fe95a95',
-        'secret' => '9351445d41dee37c59c3c8a197daecee',
-        'grant_type' => 'authorization_code',
+        'appid' => '',
+        'secret' => '',
+        'grant_type' => '',
     ];
     
     const RUNTIME_PATH = __DIR__.DIRECTORY_SEPARATOR;
